@@ -1,0 +1,4 @@
+#Wed Nov 16 20:35:24 CST 2022
+base.0=/home/jonathan/Documents/domas_ecommerce/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
